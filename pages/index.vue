@@ -1,5 +1,9 @@
 <template>
-  <common-products-list-page :load-products="loadProducts" />
+<div>
+  <h1>
+    Hello
+  </h1>
+  <common-products-list-page :load-products="loadProducts" /></div>
 </template>
 
 <script>

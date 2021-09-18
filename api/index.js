@@ -5,7 +5,7 @@ export const Apisful = axios.create({
   baseURL: 'https://api.apisful.com/v1/collections/',
   headers: {
     // Put your access key here
-    'X-Api-Key': 'IE7Bufk1NgFOBZwc6PxTOIqUB5AFLYf4Ennv4xvO5m4'
+    'X-Api-Key': 'h09Cthv5TsbLgjbAZ7LSx_ZDdPhSrVQYTZ0s0LsxrKI'
   },
   validateStatus (status) {
     return status >= 200 && status < 500
