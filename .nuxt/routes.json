@@ -2,43 +2,43 @@
   {
     "name": "cart",
     "path": "/cart",
-    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\cart.vue",
+    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash$$\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\cart.vue",
     "chunkName": "pages/cart",
-    "_name": "_3594b23e"
+    "_name": "_3ef5fea1"
   },
   {
     "name": "categories",
     "path": "/categories",
-    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\categories\\\\index.vue",
+    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash$$\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\categories\\\\index.vue",
     "chunkName": "pages/categories/index",
-    "_name": "_53f9f8c5"
+    "_name": "_cfd38df6"
   },
   {
     "name": "products",
     "path": "/products",
-    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\products\\\\index.vue",
+    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash$$\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\products\\\\index.vue",
     "chunkName": "pages/products/index",
-    "_name": "_623f023d"
+    "_name": "_d6235b06"
   },
   {
     "name": "categories-category",
     "path": "/categories/:category",
-    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\categories\\\\_category.vue",
+    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash$$\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\categories\\\\_category.vue",
     "chunkName": "pages/categories/_category",
-    "_name": "_126b4960"
+    "_name": "_564c7b90"
   },
   {
     "name": "products-product",
     "path": "/products/:product",
-    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\products\\\\_product.vue",
+    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash$$\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\products\\\\_product.vue",
     "chunkName": "pages/products/_product",
-    "_name": "_73a07995"
+    "_name": "_99e77d56"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\apiful_crash$$\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_f169833e"
+    "_name": "_6595dea1"
   }
 ]

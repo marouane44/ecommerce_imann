@@ -3,12 +3,12 @@ import Router from 'vue-router'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _3594b23e = () => interopDefault(import('..\\pages\\cart.vue' /* webpackChunkName: "pages/cart" */))
-const _53f9f8c5 = () => interopDefault(import('..\\pages\\categories\\index.vue' /* webpackChunkName: "pages/categories/index" */))
-const _623f023d = () => interopDefault(import('..\\pages\\products\\index.vue' /* webpackChunkName: "pages/products/index" */))
-const _126b4960 = () => interopDefault(import('..\\pages\\categories\\_category.vue' /* webpackChunkName: "pages/categories/_category" */))
-const _73a07995 = () => interopDefault(import('..\\pages\\products\\_product.vue' /* webpackChunkName: "pages/products/_product" */))
-const _f169833e = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _3ef5fea1 = () => interopDefault(import('..\\pages\\cart.vue' /* webpackChunkName: "pages/cart" */))
+const _cfd38df6 = () => interopDefault(import('..\\pages\\categories\\index.vue' /* webpackChunkName: "pages/categories/index" */))
+const _d6235b06 = () => interopDefault(import('..\\pages\\products\\index.vue' /* webpackChunkName: "pages/products/index" */))
+const _564c7b90 = () => interopDefault(import('..\\pages\\categories\\_category.vue' /* webpackChunkName: "pages/categories/_category" */))
+const _99e77d56 = () => interopDefault(import('..\\pages\\products\\_product.vue' /* webpackChunkName: "pages/products/_product" */))
+const _6595dea1 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
 const emptyFn = () => {}
@@ -28,27 +28,27 @@ export const routerOptions = {
 
   routes: [{
     path: "/cart",
-    component: _3594b23e,
+    component: _3ef5fea1,
     name: "cart"
   }, {
     path: "/categories",
-    component: _53f9f8c5,
+    component: _cfd38df6,
     name: "categories"
   }, {
     path: "/products",
-    component: _623f023d,
+    component: _d6235b06,
     name: "products"
   }, {
     path: "/categories/:category",
-    component: _126b4960,
+    component: _564c7b90,
     name: "categories-category"
   }, {
     path: "/products/:product",
-    component: _73a07995,
+    component: _99e77d56,
     name: "products-product"
   }, {
     path: "/",
-    component: _f169833e,
+    component: _6595dea1,
     name: "index"
   }],
 
