@@ -43,7 +43,9 @@ export default {
   padding-bottom: 1rem
   &__logo
     img
-      height: 170px
+     
+      margin-top:50px
+     
   &__cart
     border: 1px solid #F5F4F2
     border-radius: 0 0 0 $border-radius

@@ -12,7 +12,10 @@
           <nuxt-link :to="{ name: 'index' }">
             All
           </nuxt-link>
-        </li>
+           
+        </li><li class="filter__item"><nuxt-link    :to="{ name: 'index2' }">
+            Read
+          </nuxt-link></li>
         <li
           v-for="category in categories"
           :key="category.id"

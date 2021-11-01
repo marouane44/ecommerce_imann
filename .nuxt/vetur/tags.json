@@ -1,4 +1,10 @@
 {
+  "AppFooter": {
+    "description": "Auto imported from components/AppFooter.vue"
+  },
+  "LazyAppFooter": {
+    "description": "Auto imported from components/AppFooter.vue"
+  },
   "CommonNavbar": {
     "description": "Auto imported from components/CommonNavbar.vue"
   },

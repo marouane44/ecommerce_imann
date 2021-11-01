@@ -1,3 +1,4 @@
+export { default as AppFooter } from '../..\\components\\AppFooter.vue'
 export { default as CommonNavbar } from '../..\\components\\CommonNavbar.vue'
 export { default as CartProductsList } from '../..\\components\\cart\\CartProductsList.vue'
 export { default as ProductGallery } from '../..\\components\\product-details\\ProductGallery.vue'
@@ -6,6 +7,7 @@ export { default as ProductListCard } from '../..\\components\\products-list\\Pr
 export { default as ProductsList } from '../..\\components\\products-list\\ProductsList.vue'
 export { default as ProductsListFilter } from '../..\\components\\products-list\\ProductsListFilter.vue'
 
+export const LazyAppFooter = import('../..\\components\\AppFooter.vue' /* webpackChunkName: "components_AppFooter" */).then(c => c.default || c)
 export const LazyCommonNavbar = import('../..\\components\\CommonNavbar.vue' /* webpackChunkName: "components_CommonNavbar" */).then(c => c.default || c)
 export const LazyCartProductsList = import('../..\\components\\cart\\CartProductsList.vue' /* webpackChunkName: "components_cart/CartProductsList" */).then(c => c.default || c)
 export const LazyProductGallery = import('../..\\components\\product-details\\ProductGallery.vue' /* webpackChunkName: "components_product-details/ProductGallery" */).then(c => c.default || c)
