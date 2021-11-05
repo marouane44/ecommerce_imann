@@ -5,6 +5,9 @@
         <img src="~/assets/images/logo.svg" alt="logo">
       </nuxt-link>
     </div>
+
+    <h  style=" font-size: 40px;  font-family: Sofia, sans-serif;font-size: 30px;
+  text-shadow: 3px 3px 3px #ababab;">AFAYAD PET</h>
     <nuxt-link
       :to="{ name: 'cart'}"
       class="navbar__cart"
@@ -44,7 +47,8 @@ export default {
   &__logo
     img
      
-      margin-top:50px
+      margin-top:10px
+      height: 100px
      
   &__cart
     border: 1px solid #F5F4F2

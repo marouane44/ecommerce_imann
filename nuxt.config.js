@@ -22,7 +22,8 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel:'stylesheet',href: 'https://fonts.googleapis.com/css?family=Sofia&effect=fire'}
     ]
   },
   /*
@@ -37,7 +38,8 @@ export default {
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
-    '~plugins/filters.js'
+    '~plugins/filters.js',
+    '~plugins/vue-lazyload.js'
   ],
   /*
   ** Auto import components
