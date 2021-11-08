@@ -14,7 +14,7 @@
      
     </div>
     <div class="card">
-           <h1 class="title">Quelle nourriture Royal Canin choisir pour les chiots de deux mois ?
+           <h1 class="title">Quelle nourriture choisir pour les chiots de deux mois ?
 </h1>
 
       
