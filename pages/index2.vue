@@ -55,8 +55,8 @@ export default {
   data() {
     return {
       img: [
-        "https://www.zoobio.fr/blog/wp-content/uploads/sites/6/2017/05/recommandations-en-matiere.jpg",
-      "https://www.zoobio.fr/blog/wp-content/uploads/sites/6/2017/02/chiens-chiots-qui-alimentation.jpeg"
+        "https://i.ibb.co/bmpd9XP/Captuhhhhhhhhhre.png",
+        "https://www.leclubnestleoutremer.fr/images/articles/cote-famille-mon-animal-mon-chien-chiots.jpg"
       ]
     };
   }

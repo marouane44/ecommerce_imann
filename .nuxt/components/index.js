@@ -1,11 +1,11 @@
 export { default as AppFooter } from '../..\\components\\AppFooter.vue'
 export { default as CommonNavbar } from '../..\\components\\CommonNavbar.vue'
 export { default as CartProductsList } from '../..\\components\\cart\\CartProductsList.vue'
-export { default as ProductGallery } from '../..\\components\\product-details\\ProductGallery.vue'
 export { default as ProductsListCommonProductsListPage } from '../..\\components\\products-list\\CommonProductsListPage.vue'
 export { default as ProductsListProductListCard } from '../..\\components\\products-list\\ProductListCard.vue'
 export { default as ProductsList } from '../..\\components\\products-list\\ProductsList.vue'
 export { default as ProductsListFilter } from '../..\\components\\products-list\\ProductsListFilter.vue'
+export { default as ProductGallery } from '../..\\components\\product-details\\ProductGallery.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

@@ -8,9 +8,6 @@
   "CartProductsList": {
     "description": "Auto imported from components/cart/CartProductsList.vue"
   },
-  "ProductGallery": {
-    "description": "Auto imported from components/product-details/ProductGallery.vue"
-  },
   "ProductsListCommonProductsListPage": {
     "description": "Auto imported from components/products-list/CommonProductsListPage.vue"
   },
@@ -22,5 +19,8 @@
   },
   "ProductsListFilter": {
     "description": "Auto imported from components/products-list/ProductsListFilter.vue"
+  },
+  "ProductGallery": {
+    "description": "Auto imported from components/product-details/ProductGallery.vue"
   }
 }
